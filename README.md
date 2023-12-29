@@ -1,4 +1,4 @@
-# Data Scientis
+# Data Scientist
 
 ### Education
 MBA
